@@ -1,0 +1,3 @@
+include ':BelaLibrary'
+include ':app'
+rootProject.name = "ProjectBelaLibrary"
